@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
          //bài 1
+        ////hihihihiaii
 
 
       fusedLocationClient = LocationServices.getFusedLocationProviderClient(this);
